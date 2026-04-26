@@ -1,0 +1,11 @@
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <p class="site-footer__line">
+      &copy; {{ now.Format "2006" }} {{ .Site.Params.author }}.
+      {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">Twitter</a>{{ end }} ·
+      {{ with .Site.Params.github }}<a href="https://github.com/{{ . }}">GitHub</a>{{ end }} ·
+      {{ with .Site.Params.linkedin }}<a href="https://www.linkedin.com/in/{{ . }}">LinkedIn</a>{{ end }} ·
+      <a href="/rss.xml">RSS</a>
+    </p>
+  </div>
+</footer>

@@ -1,0 +1,27 @@
+{{- $ctx := .ctx -}}
+{{- $title := .title -}}
+{{- $desc := .desc -}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if not $ctx.IsHome }}{{ $title }} — {{ end }}{{ $ctx.Site.Title }}</title>
+{{ with $desc }}<meta name="description" content="{{ . | plainify | truncate 200 }}">{{ end }}
+
+<!-- Open Graph -->
+<meta property="og:type" content="{{ if $ctx.IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:url" content="{{ $ctx.Permalink }}">
+{{ with $desc }}<meta property="og:description" content="{{ . | plainify | truncate 200 }}">{{ end }}
+{{ with $ctx.Site.Params.authorPhoto }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+<meta name="twitter:card" content="summary">
+{{ with $ctx.Site.Params.twitter }}<meta name="twitter:creator" content="@{{ . }}">{{ end }}
+
+<!-- Feeds -->
+{{ range $ctx.AlternativeOutputFormats -}}
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{ $ctx.Site.Title }}">
+{{ end -}}
+
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="canonical" href="{{ $ctx.Permalink }}">
+
+{{- $css := resources.Get "css/main.css" | resources.Minify | resources.Fingerprint -}}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">

@@ -1,0 +1,52 @@
+baseURL = "https://jamshidhashimi.com/"
+languageCode = "en-us"
+title = "Jamshid Hashimi"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = false
+summaryLength = 35
+
+# Posts live at /:slug/ rather than /posts/:slug/
+[permalinks]
+  posts = "/:slug/"
+
+# Tag and category archives at /tags/foo/ etc.
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark.renderer]
+    # Allow raw HTML in content (legacy WP markup occasionally has tables/embeds)
+    unsafe = true
+  [markup.highlight]
+    style = "onedark"
+    noClasses = false
+    lineNos = false
+    tabWidth = 2
+
+[params]
+  # Author identity used by templates
+  author = "Jamshid Hashimi"
+  authorTagline = "Software engineer and entrepreneur. Notes on software, products, and the work."
+  authorPhoto = "/images/jamshid.jpg"
+  authorBio = "I'm Jamshid — a software engineer and entrepreneur based in Vancouver. I write occasionally about software, products, and the work behind them."
+  twitter = "jamshidhashimi"
+  github = "jamshidhashimi"
+  linkedin = "jamshidhashimi"
+  email = "jamshid@rapiditeration.com"
+  description = "Personal blog of Jamshid Hashimi — notes on software engineering, products, and entrepreneurship."
+
+# Output an Atom feed at /rss/index.xml to mirror what adamwathan.me does
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[mediaTypes."application/atom+xml"]
+  suffixes = ["xml"]
+
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "rss"
+  isPlainText = false

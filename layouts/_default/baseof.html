@@ -1,0 +1,18 @@
+{{- $title := .Title -}}
+{{- if .IsHome -}}{{ $title = .Site.Title }}{{- end -}}
+{{- $desc := .Description | default .Summary | default .Site.Params.description -}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  {{- partial "head.html" (dict "ctx" . "title" $title "desc" $desc) -}}
+</head>
+<body>
+  <div class="page">
+    {{- partial "header.html" . -}}
+    <main class="content">
+      {{- block "main" . }}{{ end -}}
+    </main>
+    {{- partial "footer.html" . -}}
+  </div>
+</body>
+</html>

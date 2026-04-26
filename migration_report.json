@@ -1,0 +1,606 @@
+{
+  "posts": [
+    {
+      "slug": "hello-world",
+      "title": "Hello world!",
+      "date": "2009-11-13T12:10:37",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "ikili-agaclarda-aramabinary-search-tree",
+      "title": "\u0130kili A\u011fa\u00e7larda Arama(Binary Search Tree)",
+      "date": "2009-11-13T13:00:58",
+      "dropped_images": 6,
+      "language": "tr"
+    },
+    {
+      "slug": "insertion-sort",
+      "title": "Insertion Sort",
+      "date": "2009-11-13T13:05:23",
+      "dropped_images": 4,
+      "language": "en"
+    },
+    {
+      "slug": "bilgisayar-sozleri",
+      "title": "Bilgisayar S\u00f6zleri:)",
+      "date": "2009-11-15T15:32:35",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "cagin-korsanlari",
+      "title": "\u00c7a\u011f\u0131n Korsanlar\u0131",
+      "date": "2009-11-15T18:45:23",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "sorting-algorithms",
+      "title": "Sorting Algorithms",
+      "date": "2009-11-16T14:40:36",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "net-ve-c",
+      "title": ".NET ve C#",
+      "date": "2009-11-18T13:25:22",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "windows-8-video",
+      "title": "Windows 8 (Video)",
+      "date": "2009-11-22T12:20:53",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "python-ve-c-farki",
+      "title": "Python ve C# fark\u0131",
+      "date": "2009-12-11T16:59:03",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "extract-tar-gz-file-in-linux",
+      "title": "Extract tar.gz file in Linux",
+      "date": "2010-01-05T17:48:43",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "toshiba-portege-a600-recovery-muhtemelen-butun-modeller-icin-gecerli",
+      "title": "Toshiba Portege a600 Recovery (muhtemelen b\u00fct\u00fcn modeller i\u00e7in ge\u00e7erli)",
+      "date": "2010-01-07T13:11:29",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "olasilik-yogunluk-fonksiyonu-probability-dense-function-pdf",
+      "title": "Olas\u0131l\u0131k Yo\u011funluk Fonksiyonu (Probability Dense Function PDF)",
+      "date": "2010-01-10T19:41:13",
+      "dropped_images": 2,
+      "language": "tr"
+    },
+    {
+      "slug": "kumulatif-dagilim-fonksiyonu-cumulative-distribution-function-cdf",
+      "title": "K\u00fcm\u00fclatif Da\u011f\u0131l\u0131m Fonksiyonu (cumulative distribution function cdf)",
+      "date": "2010-01-10T19:50:21",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "ceturk-universite-temsilcileri-belirlendi",
+      "title": "CETURK \u00dcniversite Temsilcileri Belirlendi",
+      "date": "2010-01-15T13:49:56",
+      "dropped_images": 1,
+      "language": "tr"
+    },
+    {
+      "slug": "programci-ozdeyisleri",
+      "title": "Programc\u0131 \u00d6zdeyi\u015fleri",
+      "date": "2010-02-04T00:31:21",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "volkan-aktas-ile-roportaj",
+      "title": "Volkan AKTA\u015e ile R\u00f6portaj",
+      "date": "2010-02-06T15:14:28",
+      "dropped_images": 1,
+      "language": "tr"
+    },
+    {
+      "slug": "mysql-veritabaninda-rastgele-veri-cekmek",
+      "title": "Mysql veritaban\u0131nda Rastgele veri \u00e7ekmek",
+      "date": "2010-03-24T16:13:03",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "yillar-sonra-ayni-poz",
+      "title": "Y\u0131llar sonra ayni poz..",
+      "date": "2010-03-25T12:49:09",
+      "dropped_images": 17,
+      "language": "tr"
+    },
+    {
+      "slug": "fix-error-code-29506-while-installing-sql-management-studio-express-on-windows-vista-x64",
+      "title": "FIX: Error Code 29506, While installing SQL Management Studio Express on Windows Vista x64",
+      "date": "2010-03-26T11:22:23",
+      "dropped_images": 1,
+      "language": "en"
+    },
+    {
+      "slug": "what-is-the-difference-between-record-and-field",
+      "title": "What is the difference between Record and Field?",
+      "date": "2010-04-26T15:27:33",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "einstein-ve-soforu",
+      "title": "E\u0130NSTE\u0130N VE \u015eOF\u00d6R\u00dc",
+      "date": "2010-04-29T15:50:02",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "tarayici-savaslari-tam-gaz",
+      "title": "Taray\u0131c\u0131 sava\u015flar\u0131 tam gaz!",
+      "date": "2010-05-04T14:31:52",
+      "dropped_images": 1,
+      "language": "tr"
+    },
+    {
+      "slug": "microsoft-turkiye-yaz-okulu-2010-aciklandi",
+      "title": "Microsoft T\u00fcrkiye Yaz Okulu 2010 A\u00e7\u0131kland\u0131",
+      "date": "2010-05-23T23:00:14",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "real-programmers-code-in-binary",
+      "title": "Real Programmers code in binary",
+      "date": "2010-08-05T08:58:12",
+      "dropped_images": 1,
+      "language": "en"
+    },
+    {
+      "slug": "int-vs-uniqueidentifier",
+      "title": "INT vs UniqueIdentifier",
+      "date": "2010-08-19T12:52:24",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "ofisle-paralel-psikoloji-sureci",
+      "title": "Ofisle paralel psikoloji S\u00fcreci :)",
+      "date": "2010-08-19T23:18:22",
+      "dropped_images": 6,
+      "language": "tr"
+    },
+    {
+      "slug": "agilecevik-modelleme-ve-cevik-yazilim-gelistirme",
+      "title": "Agile(\u00c7evik) Modelleme ve \u00c7evik Yaz\u0131l\u0131m Geli\u015ftirme",
+      "date": "2010-08-23T21:50:49",
+      "dropped_images": 2,
+      "language": "tr"
+    },
+    {
+      "slug": "windows-server-2008-r2",
+      "title": "Windows Server 2008 R2",
+      "date": "2010-08-28T01:11:15",
+      "dropped_images": 2,
+      "language": "en"
+    },
+    {
+      "slug": "failed-to-query-a-list-of-database-names-from-the-sql-server-invalid-object-name-sysdatabases",
+      "title": "failed to query a list of database names from the sql server. invalid object name \u2018sysdatabases\u2019",
+      "date": "2010-09-02T00:07:02",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "msp-2010-2011-sonuclari-belli-oldu",
+      "title": "MSP 2010-2011 Sonu\u00e7lar\u0131 Belli Oldu",
+      "date": "2010-09-04T00:31:51",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "what-is-a-well-formed-xml-document",
+      "title": "What is a well-Formed XML document?",
+      "date": "2010-09-23T14:54:41",
+      "dropped_images": 1,
+      "language": "en"
+    },
+    {
+      "slug": "neden-yazilim-uzmani-olamazsiniz",
+      "title": "Neden yaz\u0131l\u0131m uzman\u0131 olamazs\u0131n\u0131z?",
+      "date": "2010-09-27T01:17:33",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "yaratici-kod-yazmanin-14-yolu",
+      "title": "Yarat\u0131c\u0131 Kod Yazman\u0131n 14 Yolu",
+      "date": "2010-09-29T00:43:07",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "pdc10",
+      "title": "PDC10",
+      "date": "2010-10-29T18:59:59",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "imagine-cup-2011-turkiye-lansmani",
+      "title": "Imagine Cup 2011 T\u00fcrkiye Lansman\u0131",
+      "date": "2010-11-02T14:06:15",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "microsoft-turkcell-isbirligiyle-gencsen-geleceksin-4-0",
+      "title": "MICROSOFT-TURKCELL \u0130\u015eB\u0130RL\u0130\u011e\u0130YLE GEN\u00c7SEN GELECEKS\u0130N 4.0",
+      "date": "2010-11-30T13:46:10",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "pdc-2010-turkiye-ozel-etkinlikleri-izmir",
+      "title": "PDC 2010 T\u00fcrkiye \u00d6zel Etkinlikleri: \u0130zmir",
+      "date": "2010-12-07T20:59:00",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "windows-server-2008-uzerine-mvc-calistirma",
+      "title": "Windows Server 2008 \u00fczerine MVC \u00e7al\u0131\u015ft\u0131rma",
+      "date": "2010-12-14T10:03:03",
+      "dropped_images": 1,
+      "language": "tr"
+    },
+    {
+      "slug": "asp-net-mvc3-release-candidate-2-duyruldu",
+      "title": "Asp.Net MVC3 Release Candidate 2 Duyruldu",
+      "date": "2010-12-15T14:23:19",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "bilinen-hata-kodlari-ve-aciklamalari",
+      "title": "Bilinen Hata Kodlar\u0131 ve A\u00e7\u0131klamalar\u0131",
+      "date": "2010-12-22T21:49:10",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "scheme-programlama-dili-dersleri-1",
+      "title": "Scheme Programlama Dili Dersleri 1",
+      "date": "2011-01-15T23:19:52",
+      "dropped_images": 1,
+      "language": "tr"
+    },
+    {
+      "slug": "scheme-programlama-dili-dersleri-2",
+      "title": "Scheme Programlama Dili Dersleri 2",
+      "date": "2011-01-15T23:20:22",
+      "dropped_images": 4,
+      "language": "tr"
+    },
+    {
+      "slug": "scheme-programlama-dili-dersleri-2-2",
+      "title": "Scheme Programlama Dili Dersleri 3",
+      "date": "2011-01-15T23:27:12",
+      "dropped_images": 5,
+      "language": "tr"
+    },
+    {
+      "slug": "scheme-programlama-dili-dersleri-4",
+      "title": "Scheme Programlama Dili Dersleri 4",
+      "date": "2011-01-15T23:50:29",
+      "dropped_images": 2,
+      "language": "tr"
+    },
+    {
+      "slug": "scheme-programlama-dili-dersleri-5",
+      "title": "Scheme Programlama Dili Dersleri 5",
+      "date": "2011-01-16T00:48:03",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "sql-server-v-next-denali-yeni-ozellikleriyle-management-studio",
+      "title": "SQL Server v.Next (Denali) : Yeni \u00f6zellikleriyle Management Studio",
+      "date": "2011-01-18T00:54:51",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "microsoft-student-programi-basvurulari",
+      "title": "Microsoft Student Program\u0131 Ba\u015fvurular\u0131",
+      "date": "2011-01-23T02:45:08",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "izmir-msp-days-ve-ilk-etkinligimiz-tfs-team-foundation-server-ve-tumlesik-entegrasyon",
+      "title": "Izmir MSP Days ve \u0130lk Etkinli\u011fimiz: TFS (Team Foundation Server) ve T\u00fcmle\u015fik Entegrasyon",
+      "date": "2011-02-17T12:26:01",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "izmir-msp-days-ikinci-etkinligimiz",
+      "title": "\u0130ZM\u0130R MSP DAYS: \u0130kinci Etkinli\u011fimiz",
+      "date": "2011-02-24T00:30:33",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "saving-changes-is-not-permitted-the-changes-you-have-mad-require-the-following-tables-to-dropped-and-re-created-you-have-either-made-changes-to-a-table-that-cant-be-re-created-or-enabled",
+      "title": "Saving changes is not permitted. The changes you have made require the following tables to dropped and re-created&#8230;",
+      "date": "2011-03-10T16:19:38",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "domain-name-status-codes",
+      "title": "Domain Name Status Codes",
+      "date": "2011-03-13T11:18:32",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "unable-to-make-the-session-state-request-to-the-session-state-server",
+      "title": "Unable to make the session state request to the session state server",
+      "date": "2011-03-16T16:56:20",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "the-file-default-aspx-has-not-been-pre-compiled-and-cannot-be-requested",
+      "title": "The file &#8216;/Default.aspx&#8217; has not been pre-compiled, and cannot be requested.",
+      "date": "2011-03-29T12:17:41",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "unknown-server-tag-aspscriptmanager-error",
+      "title": "Unknown server tag &#8216;asp:ScriptManager&#8217; error",
+      "date": "2011-04-01T16:11:39",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "check-if-a-record-exist-in-a-specific-table-of-database-in-mysql",
+      "title": "Check if a record exist in a specific table of database in MySQL",
+      "date": "2011-06-04T09:48:00",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "image-upload-with-codeigniter-2",
+      "title": "Image upload with Codeigniter",
+      "date": "2011-06-14T08:48:27",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "how-to-detect-https-ssl",
+      "title": "How to detect HTTPS SSL",
+      "date": "2011-10-03T07:30:31",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "unable-to-create-directory-homejamshidhpublic_htmlwp-content-is-its-parent-directory-writable-by-the-server",
+      "title": "Unable to create directory /home/jamshidh/public_html/wp-content. Is its parent directory writable by the server?",
+      "date": "2011-12-22T11:47:22",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "how-to-get-data-which-is-added-between-hours-in-mysql",
+      "title": "How to get data which is added between hours in MySQL?",
+      "date": "2011-12-26T09:13:40",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "first-msp-of-afghanistan",
+      "title": "First MSP of Afghanistan",
+      "date": "2011-12-28T19:11:30",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "close-popup-window-and-refresh-parent-page",
+      "title": "Close Popup Window and Refresh Parent Page",
+      "date": "2012-04-30T08:02:22",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "redirect-users-to-custom-page-with-notification",
+      "title": "Redirect users to custom page with notification",
+      "date": "2012-06-24T16:52:27",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "get-checked-ids-of-jstree-in-form-submit",
+      "title": "Get checked Ids of Jstree in form submit",
+      "date": "2012-06-26T19:41:05",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "add-an-integer-with-a-field-value",
+      "title": "Add an integer with a field value",
+      "date": "2012-07-30T06:49:44",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "mysql-query-to-append-character-to-each-entry",
+      "title": "MySQL query to append character to each entry",
+      "date": "2012-07-30T06:51:57",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "how-to-invoke-on-check-event-of-a-checkbox",
+      "title": "How to invoke on check event of a checkbox[]",
+      "date": "2012-09-01T15:24:38",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "facebook-tarzi-zaman-gosterimi-tarih-saat",
+      "title": "Facebook tarz\u0131 zaman g\u00f6sterimi (tarih, saat)",
+      "date": "2012-11-08T16:14:04",
+      "dropped_images": 0,
+      "language": "tr"
+    },
+    {
+      "slug": "learn-your-facebook-profile-idpage-id",
+      "title": "learn your facebook profile ID/page ID",
+      "date": "2013-01-13T19:54:43",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "sort-table-with-jquery-tablesorter",
+      "title": "Sort table with jQuery Tablesorter",
+      "date": "2013-02-13T21:30:03",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "aaron-swartz-was-curious",
+      "title": "Aaron Swartz was curious",
+      "date": "2013-02-14T14:41:20",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "whats-new-in-windows-8-and-introduction-to-windows-8-application-development",
+      "title": "What&#8217;s new in Windows 8 and Introduction to Windows 8 Application Development",
+      "date": "2013-03-14T00:12:01",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "dynamically-add-javascript-and-css-files-in-codeigniter-header-page",
+      "title": "Dynamically Add Javascript and CSS Files in CodeIgniter Header Page",
+      "date": "2013-04-12T09:35:18",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "meet-ahmad-jamshid-hashimi-msp-from-dokuz-eylul-university-turkey",
+      "title": "Meet Ahmad Jamshid Hashimi \u2013 MSP from Dokuz Eylul University, Turkey",
+      "date": "2013-05-11T20:09:52",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "introduction-to-razor-and-microsoft-webmatrix",
+      "title": "Introduction to Razor and Microsoft WebMatrix",
+      "date": "2013-10-11T19:54:01",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "ifttt-is-amazing-awesome-and-definitely-beautiful",
+      "title": "IFTTT is amazing, awesome and definitely beautiful!",
+      "date": "2014-03-03T14:28:03",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "enterprise-mobility-suite-overview",
+      "title": "Enterprise Mobility Suite Overview",
+      "date": "2015-08-23T13:24:48",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "opensource-diagram-and-workflow-design-tools",
+      "title": "Opensource Diagram and Workflow Design Tools",
+      "date": "2015-12-23T08:43:03",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "learn-c",
+      "title": "Learn C#",
+      "date": "2016-11-22T20:37:34",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "my-notes-learning-technologies-exhibition",
+      "title": "My Notes on the Learning Technologies Exhibition",
+      "date": "2017-02-25T19:44:19",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "do-you-want-to-learn-coding-whats-next",
+      "title": "Do you want to learn coding? What&#8217;s next?",
+      "date": "2017-07-16T00:54:00",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "a-successful-career-in-software-development",
+      "title": "A Successful Career in Software Development",
+      "date": "2018-06-06T04:16:56",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "software-development-in-afghanistan",
+      "title": "Software Development in Afghanistan",
+      "date": "2018-06-08T09:38:28",
+      "dropped_images": 4,
+      "language": "en"
+    },
+    {
+      "slug": "what-is-software-development",
+      "title": "What is Software Development?",
+      "date": "2018-06-08T22:12:15",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "who-to-surround-yourself-with",
+      "title": "Who to surround yourself with?",
+      "date": "2021-12-19T07:16:46",
+      "dropped_images": 0,
+      "language": "en"
+    },
+    {
+      "slug": "7-years-of-codeweekend",
+      "title": "7 years of CodeWeekend",
+      "date": "2021-12-27T20:50:49",
+      "dropped_images": 0,
+      "language": "en"
+    }
+  ],
+  "totals": {
+    "posts": 85,
+    "images_downloaded": 44,
+    "images_dead": 62,
+    "tr_posts": 35,
+    "en_posts": 50
+  }
+}

@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="hero">
+  <h1 class="hero__heading">Hi, I'm {{ .Site.Params.author | default "there" }}.</h1>
+  <p class="hero__lede">{{ .Site.Params.authorBio }}</p>
+</section>
+
+<section class="post-list">
+  <h2 class="post-list__heading">Recent Posts</h2>
+  <ol class="post-list__items" reversed>
+    {{ range (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+      <li class="post-list__item">
+        <time class="post-list__date" datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "Jan 2, 2006" }}
+        </time>
+        <a class="post-list__title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ol>
+</section>
+{{ end }}
