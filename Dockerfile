@@ -5,7 +5,7 @@ WORKDIR /src
 COPY . .
 
 ENV HUGO_ENV=production
-ENV HUGO_ENABLEGITINFO=true
+ENV HUGO_ENABLEGITINFO=false
 
 RUN hugo --minify --gc
 
